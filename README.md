@@ -6,9 +6,9 @@ Goal: The Goal of this Hackathon was to create an app that motivates young voter
 
 ## Contributors
 
-Scott Maloff (UX Designer)
-Jenn Scheller (UX Designer)
-Benjamin Yang (Full Stack Developer)
+Scott Maloff (UX Designer)<br/>
+Jenn Scheller (UX Designer)<br/>
+Benjamin Yang (Full Stack Developer)<br/>
 Matt Laguardia (Full Stack Developer)
 
 ## Presentation Deck
